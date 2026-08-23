@@ -1,11 +1,11 @@
-# 🔋 Dual-Input EV Charging System
+#  Dual-Input EV Charging System
 ### MATLAB/Simulink-Based Intelligent EV Charging System
 
 A dual-input electric vehicle charging system combining **Solar Photovoltaic (PV)** energy and **Capacitive Wireless Power Transfer (CWPT)** for intelligent EV battery charging.
 
 The system uses an **Energy Management Controller (EMC)** to select and coordinate the available charging sources according to operating conditions.
 
-## 🚗 Project Overview
+##  Project Overview
 Electric vehicle charging can be affected by renewable-energy variability and wireless power-transfer limitations.
 
 This project investigates a dual-source charging architecture that combines:
@@ -18,7 +18,7 @@ This project investigates a dual-source charging architecture that combines:
 
 The complete system is modelled and analyzed using **MATLAB/Simulink**.
 
-## 🎯 Project Objectives
+##  Project Objectives
  Develop a dual-input EV charging architecture.
  Integrate Solar PV and wireless power transfer.
  Implement intelligent source-selection logic.
