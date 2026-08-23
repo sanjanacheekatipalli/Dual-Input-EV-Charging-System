@@ -1,4 +1,4 @@
-%% matlab/init_params.m
+%% init_params.m
 % and run_scenarios.m.
 %
 % RUN ORDER:
